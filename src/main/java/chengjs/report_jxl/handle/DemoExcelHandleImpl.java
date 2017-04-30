@@ -84,7 +84,7 @@ public class DemoExcelHandleImpl extends ProjectExcelHandle {
   
   @Override
   public String getParamsSql(String params) {
-    // demoExcel for test 
+    // demoExcel for demo_groovy
     return null;
   }
 }
